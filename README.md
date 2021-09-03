@@ -2,7 +2,7 @@
 - 👀 Estou iniciando no mundo da programação.
 - 🌱 Eu estou aprendendo HTML, CSS e JavaScript
 - 📚📐 Estou no primeiro ano do Ensino Médio.
-- 📑 Nível de Inglês B1 - Intermediário│EF SET
+- 📑 Proeficiência em Inglês B1 - Intermediário│EF SET
 ##
  <div>
   <a href="https://github.com/Danidev2006">
