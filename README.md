@@ -1,8 +1,8 @@
 -👋🏻 Olá! Eu sou @Danidev2006
 - 👀 Estou iniciando no mundo da programação.
-- 🌱 Eu estou aprendendo HTML, CSS e JavaScript
+- 🌱 Eu estou aprendendo HTML, CSS e JavaScript.
 - 📚📐Estou no primeiro ano do Ensino Médio.
-- 📑 Proeficiência em Inglês B1 - Intermediário│EF SET
+ - 📑 Estudante da Alura!
 ##
  <div>
   <a href="https://github.com/Danidev2006">
